@@ -9,5 +9,7 @@
   * [2.1 决策原则](ge-ren-yuan-ze-ku/jue-ce-yuan-ze.md)
   * 2.2 学习原则
   * 2.3 工作原则
-  * [2.4 生活原则](ge-ren-yuan-ze-ku/sheng-huo-yuan-ze.md)
+  * [2.4 生活原则](https://www.gitbook.com/book/hjr-nmj/hey-jr/edit#)
+
+
 
