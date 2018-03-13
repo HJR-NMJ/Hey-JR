@@ -1,15 +1,14 @@
 # Summary
 
 * [简介](README.md)
-* [1 目标管理](mu-biao-guan-li.md)
-  * [1.1 周回顾](mu-biao-guan-li/zhou-hui-gu.md)
-    * [43周回顾](43周回顾.md)
-  * [1.2 月回顾](mu-biao-guan-li/yue-hui-gu.md)
-* [2 个人原则库](ge-ren-yuan-ze-ku.md)
-  * [2.1 决策原则](ge-ren-yuan-ze-ku/jue-ce-yuan-ze.md)
-  * 2.2 学习原则
-  * 2.3 工作原则
-  * [2.4 生活原则](https://www.gitbook.com/book/hjr-nmj/hey-jr/edit#)
-
-
+* [1 项目资料](项目资料.md)
+  * [立项说明](mu-biao-guan-li/zhou-hui-gu.md)
+  * [项目资料](mu-biao-guan-li/yue-hui-gu.md)
+* [2 推进记录](ge-ren-yuan-ze-ku.md)
+  * [2018年3月12日推进记录](ge-ren-yuan-ze-ku/22-xue-xi-yuan-ze.md)
+  * [2018年3月13日推进记录](ge-ren-yuan-ze-ku/jue-ce-yuan-ze.md)
+* [3 课程资料](3-ke-cheng-zi-liao.md)
+  * 课程资料1
+* [4 经验萃取](3-ke-cheng-zi-liao.md)
+  * 方法萃取
 
